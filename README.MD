@@ -2,6 +2,7 @@
 - `challenge.py`: main python file, simply run via IDE or via `python challenge.py` terminal command. It will generate delta-normal-VaR.
 - `tests.py`: covered unittests for the `challenge.py` file. Run via same way. 
 - `config.yaml`: added some VaR configs as well as initial prives etc. Use in `challenge.py`. 
+- `explore.ipynb`: Exploration notebook, include some inital experiments and plots etc.
 
 # Explanation 
 ### Data Preparation:
